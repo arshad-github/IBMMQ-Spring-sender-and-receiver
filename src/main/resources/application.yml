@@ -1,0 +1,7 @@
+ibm:
+    mq:
+        channel: DEV.ADMIN.SVRCONN
+        connName: localhost(1414)
+        password: passw0rd
+        queueManager: QM1
+        user: admin
