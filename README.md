@@ -27,5 +27,5 @@ sudo docker run \
     
 ### Usage
 
-* Send GET request to localhost:8080/send -> the message within content.yml will be send to DEV.QUEUE.1
+* Send GET request to localhost:8080/send -> the message within content.yml will be sent to DEV.QUEUE.1
 * The JmsReceiver within Receiver.java will consume this message and print it out.  
